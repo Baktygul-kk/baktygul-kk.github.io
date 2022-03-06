@@ -29,6 +29,9 @@
      text-transform: uppercase;
      text-align: center;
  }
+ .section {
+    padding: 60px 0;
+ }
   header {
     background-color: #174180;
     margin-bottom: 30px;
@@ -114,7 +117,7 @@
 .skills {
     background-color: #174180;
     color: #fff;
-    padding: 60px 0;
+   
 }
 .skills ul {
     display: flex;
@@ -130,6 +133,29 @@
     background-color: #617da7;
     border-radius: 3px;
 }
+.code-example {
+    text-align: center;
+}
+.code-example pre {
+    width: 50%;
+    margin: 0 auto;
+    text-align: left;
+    font-size: 1.2em;
+    background-color: #174180;
+    color: #fff;
+    border-radius: 8px;
+}
 
+.education {
+    background-color: #174180;
+    color: #fff;
+}
 
+.education li {
+    line-height: 2em;
+}
+
+footer {
+    text-align: center;
+}
  
