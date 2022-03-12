@@ -36,6 +36,10 @@
     .container {
         max-width: 720px;
      }  
+     .nav-links li a {
+        text-decoration: none;
+    }
+
  }
  @media(max-width:737px){
     .container {
